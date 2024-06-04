@@ -1,3 +1,4 @@
-### TODO
+### 1.2.0
 
-* support advanced markdown 
+* Require Flutter 3.13 and Dart 3 or later.
+* Base style off of `bodyLarge` instead of `bodyText1`.
